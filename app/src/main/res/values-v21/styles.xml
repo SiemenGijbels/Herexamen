@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+                <item name="colorPrimary">@color/colorLightPrimary</item>
+                <item name="colorPrimaryDark">@color/colorLightPrimaryDark</item>
+                <item name="colorAccent">@color/colorAccent</item>
+                <item name="android:textColorPrimary">@color/textColorLightSecondary</item>
+                <item name="android:textColorSecondary">@color/textColorLightSecondary</item>
+                <item name="android:textColorPrimaryInverse">@color/textColorDarkPrimary</item>
+                <item name="android:textColorSecondaryInverse">@color/textColorDarkSecondary</item>
+                <item name="android:navigationBarColor">@color/colorDarkPrimaryDark</item>
+        </style>
+
+        <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+                <item name="colorPrimaryDark">@color/splashStatusBar</item>
+                <item name="android:navigationBarColor">@color/splashStatusBar</item>
+                <item name="android:windowTranslucentNavigation">true</item>
+                <item name="android:fitsSystemWindows">true</item>
+        </style>
+</resources>

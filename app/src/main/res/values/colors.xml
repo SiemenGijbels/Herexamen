@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorLightPrimary">#E5CDCC</color>
+    <color name="colorLightPrimaryDark">#D4ACAB</color>
+    <color name="colorLightPrimaryDarkV23">#DCBCBC</color>
+    <color name="colorAccent">#e5001c</color>
+    <color name="colorDarkPrimary">#222222</color>
+    <color name="colorDarkPrimaryDark">#000000</color>
+    <color name="hint_color">#42000000</color>
+    <color name="textColorLightPrimary">#000000</color>
+    <color name="textColorLightSecondary">#222222</color>
+    <color name="textColorDarkPrimary">#FFFFFF</color>
+    <color name="textColorDarkSecondary">#E1E1E1</color>
+    <color name="splashStatusBar">#64000000</color>
+</resources>
